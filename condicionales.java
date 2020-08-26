@@ -169,7 +169,7 @@ public class Parte2 {
          Informar los siguientes casos:
          si usuario="pepito" y clave="educacionIT" Informar "Bienvenido pepito!"
          si usuario="pepito" y clave no es "educacionIT" 
-         informar "El usuario no coincide con la contrase�a"
+         informar "El usuario no coincide con la contraseña"
          si el usuario no es "pepito" informar "El usuario no existe!"*/
 
 
@@ -181,7 +181,7 @@ public class Parte2 {
             System.out.println("Bienvenido Pepito");
         } else {
             if (usuario == "Pepito") {
-                System.out.println("Contrase�a Incorrecta");
+                System.out.println("Contraseña Incorrecta");
             } else {
                 System.out.println("Usuario Incorrecto");
             }
@@ -200,7 +200,7 @@ public class Parte2 {
             System.out.println("Bienvenido Pepito");
        } else {
             if (usuario.equals("Pepito")) {
-                System.out.println("Contrase�a Incorrecta");
+                System.out.println("Contraseï¿½a Incorrecta");
             } else {
                 System.out.println("Usuario Incorrecto");
             }
