@@ -16,7 +16,7 @@ public class ClaseCuatro {
         temperaturas[2] = 34.17f;
         temperaturas[0] = 12.30f;
         
-        nombres[14] = "José";
+        nombres[14] = "JosÃ©";
         nombres[6]  = "Laura";
         
         System.out.println( temperaturas[0] );
@@ -53,7 +53,7 @@ public class ClaseCuatro {
         
         /* Informar el vector de la forma: "indice: X, Valor: Y" */
         for(byte j = 0; j < vec.length; j++)
-            System.out.println("�?ndice: "+ j +", Valor: "+ vec[j]);
+            System.out.println("Ã?ndice: "+ j +", Valor: "+ vec[j]);
        
         /* Totalizar el vector e informar el total */
         short total = 0;
